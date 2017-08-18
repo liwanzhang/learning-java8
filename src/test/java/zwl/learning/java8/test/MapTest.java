@@ -14,7 +14,7 @@ public class MapTest {
     @Test
     public void mapTest() {
         MapDemo demo = new MapDemo();
-        demo.originalMap();
+        demo.map();
     }
 
 }

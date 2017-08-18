@@ -10,7 +10,7 @@ import java.util.Map;
  */
 public class MapDemo {
 
-    public void originalMap() {
+    public void map() {
         Map<String, Integer> items = new HashMap<>();
         items.put("A", 10);
         items.put("B", 20);
